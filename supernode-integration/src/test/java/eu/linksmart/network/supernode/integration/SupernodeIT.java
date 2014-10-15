@@ -81,7 +81,7 @@ public class SupernodeIT {
                 // Force the log level to INFO so we have more details during the test.  It defaults to WARN.
                 logLevel(LogLevelOption.LogLevel.INFO),
                 features(
-                        "mvn:eu.linksmart.features/eu.linksmart.features.supernode/2.2.1-SNAPSHOT/xml/features",
+                        "mvn:eu.linksmart.features/supernode/2.2.1-SNAPSHOT/xml/features",
                         "linksmart-supernode"),
         };
     }

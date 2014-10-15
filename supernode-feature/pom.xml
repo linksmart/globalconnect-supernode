@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>eu.linksmart.features</groupId>
-	<artifactId>eu.linksmart.features.supernode</artifactId>
+	<artifactId>supernode</artifactId>
 	
 	<name>LS supernode feature</name>
     
